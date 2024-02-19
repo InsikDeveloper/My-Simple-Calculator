@@ -2,7 +2,7 @@ let answer;
 
     document.querySelector('#add').onclick = function(){
         answer = parseInt(document.querySelector('#number1').value) + parseInt(document.querySelector('#number2').value);
-        document.querySelector('p').innerText = "Hello World!😃";
+        document.querySelector('h1').innerText = "MISS U😞";
     }
 
     document.querySelector('#subtract').onclick = function(){
